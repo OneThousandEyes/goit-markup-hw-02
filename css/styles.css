@@ -158,7 +158,7 @@ button {
   letter-spacing: 0.02em;
 }
 /* #endregion */
-
+/* #region footer */
 .page-footer {
   background: #2e2f42;
 }
@@ -171,7 +171,4 @@ button {
   color: #f4f4fd;
   letter-spacing: 0.02em;
 }
-
-/* #region ????? */
-
 /* #endregion */
