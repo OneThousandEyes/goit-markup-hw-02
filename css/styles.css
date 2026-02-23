@@ -115,10 +115,13 @@ button {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
-  text-transform: capitalized;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 .team-list {
+  background-color: #ffffff;
+}
+.team-item {
   background-color: #ffffff;
 }
 .team-item-title {
@@ -141,7 +144,7 @@ button {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
-  text-transform: capitalized;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 .portfolio-item-title {
