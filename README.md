@@ -1,2 +1,3 @@
-# goit-markup-hw-01
-Модуль 1. Основи HTML
+# goit-markup-hw-02
+
+Модуль 2. Вступ до CSS
