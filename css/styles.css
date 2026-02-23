@@ -77,11 +77,83 @@ button {
   color: #fff;
 }
 
-.hero-btn .btn-accent {
+.hero-btn {
   background-color: #4d5ae5;
-  color: #fff;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
 }
 
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: #404bbf;
+}
+
+/* #endregion */
+/* #region Advantages */
+.advantages-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.advantages-paragraph {
+  letter-spacing: 0.02em;
+}
+
+/* #endregion */
+/* #region Team */
+.team {
+  background-color: #f4f4fd;
+}
+.team-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalized;
+  color: #2e2f42;
+}
+.team-list {
+  background-color: #ffffff;
+}
+.team-item-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.team-item-role {
+  font-size: 16px;
+  letter-spacing: 0.02em;
+}
+/* #endregion */
+/* #region Portfolio */
+.portfolio-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalized;
+  color: #2e2f42;
+}
+.portfolio-item-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.portfolio-item-category {
+  letter-spacing: 0.02em;
+}
 /* #endregion */
 
 .page-footer {
@@ -92,8 +164,9 @@ button {
   color: #f4f4fd;
 }
 
-.page-footer p {
+.footer-paragraph {
   color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
 
 /* #region ????? */
